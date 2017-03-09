@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CategoryItemHeaderCell">
+            <rect key="frame" x="0.0" y="0.0" width="339" height="58"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="339" height="58"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ajd-Jp-0qO">
+                        <rect key="frame" x="20" y="0.0" width="309" height="58"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Ajd-Jp-0qO" secondAttribute="trailing" constant="10" id="BXl-SC-Qbb"/>
+                <constraint firstItem="Ajd-Jp-0qO" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="20" id="IyG-ti-caZ"/>
+                <constraint firstAttribute="bottom" secondItem="Ajd-Jp-0qO" secondAttribute="bottom" id="PtR-ET-uhn"/>
+                <constraint firstItem="Ajd-Jp-0qO" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="cHI-R2-NZ2"/>
+            </constraints>
+            <size key="customSize" width="339" height="58"/>
+            <connections>
+                <outlet property="headerLabel" destination="Ajd-Jp-0qO" id="Y1M-Aa-XlR"/>
+            </connections>
+            <point key="canvasLocation" x="-110.5" y="-73"/>
+        </collectionViewCell>
+    </objects>
+</document>

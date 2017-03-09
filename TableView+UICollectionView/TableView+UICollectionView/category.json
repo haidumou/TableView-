@@ -1,0 +1,671 @@
+{
+    "Category" : [
+                  {
+                  "Icon" : "",
+                  "Id" : "448",
+                  "Name" : "个护清洁",
+                  "SubCategory" : [
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "706",
+                                   "Name" : "男士洗护",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/5417a5b993a2e292.jpg",
+                                                    "Id" : "710",
+                                                    "Name" : "男士唇膏"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "709",
+                                                    "Name" : "防脱洗护"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "708",
+                                                    "Name" : "剃须护理"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/906733fe18b60dde.jpg",
+                                                    "Id" : "707",
+                                                    "Name" : "男士护肤"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "458",
+                                   "Name" : "女性护理",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/247b28503ff38be.jpg",
+                                                    "Id" : "483",
+                                                    "Name" : "洗液"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "481",
+                                                    "Name" : "卫生护垫"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261800268299300.jpg",
+                                                    "Id" : "480",
+                                                    "Name" : "卫生巾"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "456",
+                                   "Name" : "口腔护理",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261759519932920.jpg",
+                                                    "Id" : "478",
+                                                    "Name" : "漱口水"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261804522903700.jpg",
+                                                    "Id" : "477",
+                                                    "Name" : "牙膏/牙粉"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261758312426010.jpg",
+                                                    "Id" : "475",
+                                                    "Name" : "牙刷牙线"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "454",
+                                   "Name" : "洗发护发",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261758023372250.jpg",
+                                                    "Id" : "474",
+                                                    "Name" : "染发/造型"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261757326906850.jpg",
+                                                    "Id" : "473",
+                                                    "Name" : "洗护套装"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261757155091670.jpg",
+                                                    "Id" : "472",
+                                                    "Name" : "洗发/护发"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "452",
+                                   "Name" : "身体护理",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/ddb4acd052589056.jpg",
+                                                    "Id" : "705",
+                                                    "Name" : "其他身体护理"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "704",
+                                                    "Name" : "手足护理"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "703",
+                                                    "Name" : "脱毛膏"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "702",
+                                                    "Name" : "纤体瘦身"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/645f88eb4bde4410.jpg",
+                                                    "Id" : "701",
+                                                    "Name" : "香薰精油"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "700",
+                                                    "Name" : "手工/香皂"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261808050458190.jpg",
+                                                    "Id" : "593",
+                                                    "Name" : "身体乳"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261807395292140.jpg",
+                                                    "Id" : "471",
+                                                    "Name" : "磨砂浴盐"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261807176328650.jpg",
+                                                    "Id" : "468",
+                                                    "Name" : "沐浴"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261806479588740.jpeg",
+                                                    "Id" : "466",
+                                                    "Name" : "防晒"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "450",
+                                   "Name" : "面部护肤",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/95219a8680251440.jpg",
+                                                    "Id" : "699",
+                                                    "Name" : "其他面部护理"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "698",
+                                                    "Name" : "颈霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/a70770e5ec452ee8.png",
+                                                    "Id" : "697",
+                                                    "Name" : "面膜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "696",
+                                                    "Name" : "精华"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "695",
+                                                    "Name" : "眼霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "694",
+                                                    "Name" : "晚霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "693",
+                                                    "Name" : "日霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "692",
+                                                    "Name" : "防晒隔离"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161539432876780.jpg",
+                                                    "Id" : "592",
+                                                    "Name" : "乳液"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261721004022890.jpg",
+                                                    "Id" : "463",
+                                                    "Name" : "爽肤"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601261720271573470.jpg",
+                                                    "Id" : "462",
+                                                    "Name" : "去角质"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "460",
+                                                    "Name" : "洁面"
+                                                    }
+                                                    ]
+                                   }
+                                   ]
+                  },
+                  {
+                  "Icon" : "",
+                  "Id" : "500",
+                  "Name" : "箱包手袋",
+                  "SubCategory" : [
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "504",
+                                   "Name" : "礼品",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/3eda6a65cf539d1e.jpg",
+                                                    "Id" : "519",
+                                                    "Name" : "军刀军具"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "518",
+                                                    "Name" : "礼品文具"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "517",
+                                                    "Name" : "火机烟具"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "516",
+                                                    "Name" : "工艺礼品"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "503",
+                                   "Name" : "功能箱包",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/2c8be7c76f50632c.jpg",
+                                                    "Id" : "690",
+                                                    "Name" : "相机包"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "689",
+                                                    "Name" : "书包"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "688",
+                                                    "Name" : "登山包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230925066606610.jpg",
+                                                    "Id" : "515",
+                                                    "Name" : "旅行包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230924358325360.jpg",
+                                                    "Id" : "514",
+                                                    "Name" : "休闲运动包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230924123325360.jpg",
+                                                    "Id" : "513",
+                                                    "Name" : "数码电脑包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230922498794110.jpg",
+                                                    "Id" : "512",
+                                                    "Name" : "拉杆箱"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "502",
+                                   "Name" : "男包",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/5ab7ed837f1b80d6.jpg",
+                                                    "Id" : "1008",
+                                                    "Name" : "双肩包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/7908e0a751995de.jpg",
+                                                    "Id" : "1005",
+                                                    "Name" : "单肩包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/e565b1da06c3b3de.jpg",
+                                                    "Id" : "1006",
+                                                    "Name" : "斜挎包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/8668566a9629eba4.jpg",
+                                                    "Id" : "1007",
+                                                    "Name" : "手提包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161324224392250.jpg",
+                                                    "Id" : "687",
+                                                    "Name" : "腰包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161322345581300.jpg",
+                                                    "Id" : "686",
+                                                    "Name" : "休闲包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230922249887860.jpg",
+                                                    "Id" : "511",
+                                                    "Name" : "男士手包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230922067075360.jpg",
+                                                    "Id" : "510",
+                                                    "Name" : "钱包/卡包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230921455356610.jpg",
+                                                    "Id" : "509",
+                                                    "Name" : "商务公文包"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "501",
+                                   "Name" : "女包",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161321592413440.jpg",
+                                                    "Id" : "685",
+                                                    "Name" : "钥匙包/卡包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161324550547360.jpg",
+                                                    "Id" : "684",
+                                                    "Name" : "零钱包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161321239333480.jpg",
+                                                    "Id" : "683",
+                                                    "Name" : "斜挎包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161320562086500.jpg",
+                                                    "Id" : "682",
+                                                    "Name" : "手提包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230921255044110.jpg",
+                                                    "Id" : "508",
+                                                    "Name" : "双肩包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230921007075360.jpg",
+                                                    "Id" : "507",
+                                                    "Name" : "单肩包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230920349731610.jpg",
+                                                    "Id" : "506",
+                                                    "Name" : "手拿包"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602230919182075360.jpg",
+                                                    "Id" : "505",
+                                                    "Name" : "钱包/卡包"
+                                                    }
+                                                    ]
+                                   }
+                                   ]
+                  },
+                  {
+                  "Icon" : "",
+                  "Id" : "520",
+                  "Name" : "钟表首饰",
+                  "SubCategory" : [
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "881",
+                                   "Name" : "珠宝饰品",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/ede286cd87d620e0.jpg",
+                                                    "Id" : "904",
+                                                    "Name" : "耳环耳钉"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "903",
+                                                    "Name" : "发饰"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "902",
+                                                    "Name" : "戒指"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "901",
+                                                    "Name" : "手链手镯"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "900",
+                                                    "Name" : "项坠吊坠"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "899",
+                                                    "Name" : "项链"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/a59d28195cb701fe.jpg",
+                                   "Id" : "524",
+                                   "Name" : "金银饰品",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/c0406d62761154ba.jpg",
+                                                    "Id" : "898",
+                                                    "Name" : "其他饰品"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "897",
+                                                    "Name" : "耳环耳钉"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "896",
+                                                    "Name" : "发饰"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "895",
+                                                    "Name" : "戒指"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "894",
+                                                    "Name" : "手链手镯"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "893",
+                                                    "Name" : "项坠吊坠"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "892",
+                                                    "Name" : "项链"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/a89139a7fc41afb6.jpg",
+                                   "Id" : "523",
+                                   "Name" : "眼镜",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/9929e8a3c9547a7c.jpg",
+                                                    "Id" : "891",
+                                                    "Name" : "其他眼镜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "890",
+                                                    "Name" : "泳镜"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "889",
+                                                    "Name" : "太阳镜"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "522",
+                                   "Name" : "石英表",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/c27696f4c6400984.jpg",
+                                                    "Id" : "888",
+                                                    "Name" : "儿童表"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "887",
+                                                    "Name" : "男表"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "886",
+                                                    "Name" : "女表"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "885",
+                                                    "Name" : "对表"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "521",
+                                   "Name" : "机械表",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/3485924077b2f690.jpg",
+                                                    "Id" : "884",
+                                                    "Name" : "对表"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "883",
+                                                    "Name" : "女表"
+                                                    },
+                                                    {
+                                                    "Icon" : "",
+                                                    "Id" : "882",
+                                                    "Name" : "男表"
+                                                    }
+                                                    ]
+                                   }
+                                   ]
+                  },
+                  {
+                  "Icon" : "",
+                  "Id" : "580",
+                  "Name" : "美妆香水",
+                  "SubCategory" : [
+                                   {
+                                   "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602161725022700360.jpg",
+                                   "Id" : "616",
+                                   "Name" : "香水",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/temp/201603161304482720690.jpg",
+                                                    "Id" : "691",
+                                                    "Name" : "迷你香水"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602161725566294110.jpg",
+                                                    "Id" : "618",
+                                                    "Name" : "男士香水"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602161725337075360.jpg",
+                                                    "Id" : "617",
+                                                    "Name" : "女士香水"
+                                                    }
+                                                    ]
+                                   },
+                                   {
+                                   "Icon" : "",
+                                   "Id" : "581",
+                                   "Name" : "彩妆",
+                                   "SubCategory" : [
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com//Storage/Plat/Category/a9071dd7f4375dc6.jpg",
+                                                    "Id" : "1002",
+                                                    "Name" : "美妆工具"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201602021638595087170.jpg",
+                                                    "Id" : "615",
+                                                    "Name" : "香水"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221048185993230.jpg",
+                                                    "Id" : "610",
+                                                    "Name" : "防晒霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221045256445720.jpg",
+                                                    "Id" : "609",
+                                                    "Name" : "散粉"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221044565985800.jpg",
+                                                    "Id" : "608",
+                                                    "Name" : "蜜粉"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221022445324700.jpg",
+                                                    "Id" : "591",
+                                                    "Name" : "腮红"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221030416279110.jpg",
+                                                    "Id" : "590",
+                                                    "Name" : "唇膏唇彩"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221037165137690.jpg",
+                                                    "Id" : "589",
+                                                    "Name" : "眉笔"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221039312112030.jpg",
+                                                    "Id" : "588",
+                                                    "Name" : "睫毛膏"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221036235620800.jpg",
+                                                    "Id" : "587",
+                                                    "Name" : "眼线笔"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221036086040530.jpg",
+                                                    "Id" : "586",
+                                                    "Name" : "眼影"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221035506188760.jpg",
+                                                    "Id" : "585",
+                                                    "Name" : "粉饼"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221035393529960.jpg",
+                                                    "Id" : "584",
+                                                    "Name" : "粉底液"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221035259739690.jpg",
+                                                    "Id" : "583",
+                                                    "Name" : "BB霜"
+                                                    },
+                                                    {
+                                                    "Icon" : "http://img01.baifomi.com/Storage/Plat/Category/201601221035125148700.jpg",
+                                                    "Id" : "582",
+                                                    "Name" : "卸妆"
+                                                    }
+                                                    ]
+                                   }
+                                   ]
+                  }
+                  ]
+}
